@@ -1,4 +1,4 @@
-otm2014s
+Ohjelmistotekniikan menetelmät, Syksy 2014
 ========
 
-Ohjelmistotekniikan menetelmät, Syksy 2014
+*[Kurssiwiki](../../wiki)*

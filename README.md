@@ -1,4 +1,4 @@
-Ohjelmistotekniikan menetelmät, Syksy 2014
+Ohjelmistotekniikan menetelmät, Kevät 2015
 ========
 
 **[Kurssiwiki](../../wiki)**
